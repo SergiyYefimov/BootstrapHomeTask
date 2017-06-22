@@ -19,14 +19,16 @@ h1 {
 }
 .block{
   display: block;
-  width: 100%;
-  height: calc(65vh - 1vw);
+  /*background-color: red;*/
+  width: 320px;
+  margin: 0 auto;
+  /*height: calc(65vh - 1vw);*/
 }
 .img-box{
-  background-image: url(../img/1.jpg);
+/*  background-image: url(../img/1.jpg);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: contain;
+  background-size: contain;*/
   /*clear: both;*/
 }
 img{
